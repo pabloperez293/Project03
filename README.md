@@ -1,8 +1,5 @@
 #[Pablo Perez ](https://project03card.netlify.app/)
 
-[![Pablo Perez ](https://i.postimg.cc/sgKR3cV1/card.png)]
-
-
 ##📜 Resumen 📜
 Web de tarjetas para redes sociales ,desarrollar una página web y publícarla en internet para que lo puedas compartir.
 
